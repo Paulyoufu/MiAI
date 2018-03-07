@@ -1,2 +1,2 @@
-MI_KEY_ID='abcde'
-MI_SECRET='xxxxxxxxxxxxxxxxyyyyyyyyyyyyyyyy'
+MI_KEY_ID='l7aUC2KrDHb5LjZd+vhTQQ=='
+MI_SECRET='2bQoGM/k2S137cKTrS6cbJJ2+/tzLR5oOmYTYBQHf3A='
